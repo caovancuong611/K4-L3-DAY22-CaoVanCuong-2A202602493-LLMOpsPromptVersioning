@@ -28,3 +28,8 @@ env/
 
 # Lab outputs (không commit, chỉ nộp evidence/)
 data/ragas_report.json
+
+# Cache FAISS index
+data/faiss_cache/
+data/embedding_cache.json
+data/llm_cache.db
